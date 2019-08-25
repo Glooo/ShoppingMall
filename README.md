@@ -1,2 +1,2 @@
 # shopMall
-My Junior project Shopping Mall.
+My Junior project -- Shopping Mall.
